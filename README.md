@@ -1,16 +1,16 @@
 # Day3_task
 
 //For the given JSON iterate over all for loops (for, for in, for of, forEach)
-const myCar={
-   make: "Audi",
-   model: "A7",
-   year: 2019,
-   color: "Black",
-   Seats: 5,
-   price: "$75000",
-   fuel: "petrol",
-   milage: "12 Kmpl",
-};
+const myCar={ </br>
+   make: "Audi", </br>
+   model: "A7", </br>
+   year: 2019, </br>
+   color: "Black", </br>
+   Seats: 5, </br>
+   price: "$75000", </br>
+   fuel: "petrol", </br>
+   milage: "12 Kmpl", </br>
+}; </br>
 
 // Access using for in loop
 for(let key in myCar)
